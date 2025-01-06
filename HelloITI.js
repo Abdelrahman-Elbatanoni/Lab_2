@@ -9,11 +9,12 @@ function abdo()
 }
 
 ITI();
-abdo();
 
     console.log("Hello talaat");
 }
-
+function mostafa()
+{console.log("Mostafa");
+}
 ITI();
 GIT();
 
