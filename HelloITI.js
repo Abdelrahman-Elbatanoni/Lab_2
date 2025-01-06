@@ -13,9 +13,9 @@ ITI();
     console.log("Hello talaat");
 }
 function mostafa()
-{console.log("Mostafa");
+{console.log("talaat");
 }
 ITI();
 GIT();
 
-// mostafa;
+// talaat;
