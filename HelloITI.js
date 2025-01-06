@@ -5,7 +5,7 @@ function ITI()
 
 function GIT()
 {
-    console.log("Hello GIT");
+    console.log("Hello talaat");
 }
 
 ITI();
