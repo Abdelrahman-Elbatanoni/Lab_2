@@ -10,3 +10,11 @@ function abdo()
 
 ITI();
 abdo();
+
+    console.log("Hello talaat");
+}
+
+ITI();
+GIT();
+
+// talaat;
