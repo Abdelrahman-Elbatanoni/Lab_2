@@ -3,8 +3,14 @@ function ITI()
     console.log("Hello ITI");
 }
 
-function GIT()
+function abdo()
 {
+    console.log("Hello abdo");
+}
+
+ITI();
+abdo();
+
     console.log("Hello talaat");
 }
 
