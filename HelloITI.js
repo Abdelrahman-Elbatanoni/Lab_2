@@ -3,10 +3,10 @@ function ITI()
     console.log("Hello ITI");
 }
 
-function GIT()
+function abdo()
 {
-    console.log("Hello GIT");
+    console.log("Hello abdo");
 }
 
 ITI();
-GIT();
+abdo();
